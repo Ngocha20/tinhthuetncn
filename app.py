@@ -8,10 +8,10 @@ st.set_page_config(
 )
 
 # Logo
-st.image("logo.jpg")
+st.image("logo.jpg.png")
 
 # Thông tin
-st.markdown("### 📝 **TS. VŨ ĐỨC BÌNH**")
+st.markdown("### 📝 **NGUYỄN HUỲNH NGỌC HÀ**")
 
 st.title("💰 Ứng Dụng Tính Thuế Thu Nhập Cá Nhân")
 st.write(
